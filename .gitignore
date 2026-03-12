@@ -1,0 +1,104 @@
+# ========================
+# Dependencies
+# ========================
+vendor/
+node_modules/
+
+# ========================
+# Environment & Config
+# ========================
+.env
+.env.local
+config/database.php
+config/api_keys.php
+
+# ========================
+# Database & Schema
+# ========================
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+dump.sql
+backup/
+db_backup/
+
+# ========================
+# PHP
+# ========================
+*.log
+*.cache
+composer.lock
+
+# ========================
+# CSS & Styling
+# ========================
+*.min.css
+dist/
+build/
+
+# ========================
+# JavaScript / AJAX
+# ========================
+*.min.js
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ========================
+# File Uploads
+# ========================
+uploads/
+public/uploads/
+storage/
+tmp/
+
+# ========================
+# Export Files
+# ========================
+exports/
+*.csv
+*.xlsx
+*.xls
+
+# ========================
+# Maps (Leaflet.js)
+# ========================
+map_cache/
+tiles/
+
+# ========================
+# Charts (Chart.js)
+# ========================
+chart_cache/
+
+# ========================
+# Security
+# ========================
+*.pem
+*.key
+*.cert
+ssl/
+secrets/
+
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ========================
+# IDE / Editors
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================
+# Testing
+# ========================
+tests/logs/
+coverage/
