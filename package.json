@@ -1,0 +1,20 @@
+{
+  "name": "weekly-status-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for weekly project status reporting",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-cron": "^3.0.3",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.1",
+    "@anthropic-ai/sdk": "^0.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
