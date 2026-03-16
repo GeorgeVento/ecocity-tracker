@@ -190,6 +190,7 @@ created_at      (TIMESTAMP)
 
 | # | Ημερομηνία | Φάση | Στόχος Ημέρας | Εργασία που έκανα | Τεχνολογία | Git Commit Message | ✅ | Παρατηρήσεις |
 |---|-----------|------|--------------|------------------|-----------|-------------------|---|--------------|
+```
 | 1 | 16/03/2026 | 1 – Σχεδιασμός | MAMP + δομή φακέλων | | HTML, MAMP | `Day 1: MAMP setup, project folder structure created` | ☐ | |
 | 2 | 17/03/2026 | 1 – Σχεδιασμός | VS Code + README + ER Diagram | | VS Code, Markdown | `Day 2: VS Code setup, README.md, database_design.md` | ☐ | |
 | 3 | 18/03/2026 | 2 – Database | MySQL: municipalities + categories | | MySQL | `Day 3: schema.sql - municipalities, categories tables` | ☐ | |
@@ -213,7 +214,7 @@ created_at      (TIMESTAMP)
 | 21 | 13/04/2026 | 7 – Testing | End-to-end testing + bug fixes | | All | `Day 21: end-to-end test checklist + bug fixes` | ☐ | |
 | 22 | 14/04/2026 | 7 – Testing | Cross-browser + mobile testing | | All | `Day 22: cross-browser + mobile testing, testing_log.md` | ☐ | |
 | 23 | 15/04/2026 | 8 – Παράδοση | Code cleanup + README screenshots + git tag | | Git | `v1.0 Final release - EcoCity Tracker complete! 🎉` | ☐ | |
-
+```
 ---
 
 ## 🗓️ Επιπλέον Ημέρες (Buffer / Catch-up)
