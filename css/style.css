@@ -1,0 +1,29 @@
+/* ROOT VARIABLES  */
+:root {
+    --primary: #2E7D32;
+    --secondary: #4CAF50;
+    --bg: #f5f5f5;
+    --text: #333;
+}
+
+/* GENERAL */
+body {
+    background-color: var(--bg);
+    color: var(--text);
+}
+
+/* NAVBAR */
+.navbar {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* CARDS */
+.card {
+    border-radius: 10px;
+}
+
+/* FORMS */
+.form-container {
+    max-width: 500px;
+    margin: auto;
+}
