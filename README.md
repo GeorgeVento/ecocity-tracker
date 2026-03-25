@@ -224,3 +224,6 @@ https://ecocity-tracker.wordpress.com
 EcoCity Tracker 
 © Βεντουράτος Γιώργος-Λεωνίδας, Χριστοδούλου Δήμος, Παπαδάκης Γιώργος  
 ΣΑΕΚ ΑΙΓΑΛΕΩ · 2025-2026
+
+EcoCity Tracker © 2026 by George-Leonidas Ventouratos is licensed under CC BY-NC-ND 4.0. 
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/
