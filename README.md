@@ -1,4 +1,4 @@
-# 🌿 EcoCity Tracker — WordPress Edition
+# 🌿 EcoCity Tracker
 
 ## Κοινοτική Εφαρμογή Καταγραφής Περιβαλλοντικών Προβλημάτων
 
@@ -221,6 +221,6 @@ https://ecocity-tracker.wordpress.com
 
 ## 📌 License
 
-EcoCity Tracker — WordPress Edition  
+EcoCity Tracker 
 © Βεντουράτος Γιώργος-Λεωνίδας, Χριστοδούλου Δήμος, Παπαδάκης Γιώργος  
 ΣΑΕΚ ΑΙΓΑΛΕΩ · 2025-2026
